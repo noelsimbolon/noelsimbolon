@@ -1,10 +1,8 @@
-<h2 align="center">
+<h3 align="center">
     <samp>
         Hey! I'm Noel Simbolon
     </samp>
-</h2>
-
-<br>
+</h3>
 
 <p align="center">
     <samp>
