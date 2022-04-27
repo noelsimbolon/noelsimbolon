@@ -12,6 +12,16 @@
 
 <br>
 
+<details align="left">
+    <summary><samp>&#9776; About me</samp></summary><br>
+    <p align="center">
+    <samp>
+    Besides learning to become a developer, I explore topics in areas I'm interested in, such as privacy, security, media servers, and media playback. Currently, I'm trying to set up my workstation that uses a Linux-based operating system and learn a lot from it. In my leisure time, I enjoy watching movies, TV, and playing music.
+    </samp>
+    </p>
+</details>
+
+<br>
 
 <details align="left"><br>
     <summary><samp>&#9776; Stats</samp></summary>
