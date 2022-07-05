@@ -6,7 +6,7 @@
 
 <p align="center">
     <samp>
-    「 Electrical Engineering and Computer Science Student 」
+    「 Computer Science Student 」
     </samp>
 </p>
 
@@ -16,7 +16,7 @@
     <summary><samp>&#9776; About Me</samp></summary>
     <p align="center">
     <samp>
-    Besides learning to become a developer, I explore topics in areas I'm interested in, such as privacy, security, media servers, and media playback. Currently, I'm trying to set up my workstation that uses a Linux-based operating system, and I'm learning a lot from doing so. In my leisure time, I enjoy watching movies, TV, and playing music.
+    Besides learning to become a developer, I explore topics in areas I'm interested in, such as privacy, security, media servers, and media playback. In my leisure time, I enjoy watching movies, TV, and playing music.
     </samp>
     </p>
 </details>
