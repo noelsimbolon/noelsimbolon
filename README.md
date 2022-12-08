@@ -16,7 +16,7 @@
     <summary><samp>&#9776; About Me</samp></summary>
     <p align="center">
     <samp>
-    Besides learning to become a developer, I explore topics in areas I'm interested in, such as privacy, security, media servers, and media playback. In my leisure time, I enjoy watching movies, TV, and playing music.
+    Besides learning to become a professional software engineer, I explore topics in areas I'm interested in, such as privacy, security, media servers, and media playback. In my leisure time, I enjoy watching movies, TV, playing the piano, listening to music, and tinkering random stuffs.
     </samp>
     </p>
 </details>
