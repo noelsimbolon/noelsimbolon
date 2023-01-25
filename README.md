@@ -27,7 +27,7 @@
     <summary><samp>&#9776; Stats</samp></summary>
     <p align="center">
     <img width=400, src="https://github-readme-stats.vercel.app/api?username=noelsimbolon&theme=dark&show_icons=true"></img><br>
-    <img width=300, src="https://github-readme-stats.vercel.app/api/top-langs?username=noelsimbolon&layout=compact&theme=dark&show_icons=true"></img><br>
+    <img width=300, src="https://github-readme-stats.vercel.app/api/top-langs?username=noelsimbolon&exclude_repo=mpv-config&layout=compact&theme=dark&show_icons=true"></img><br>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=noelsimbolon.noelsimbolon&left_color=%23151515&right_color=%2356ac69"></img>
     </p>
 </details>
