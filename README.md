@@ -1,41 +1,12 @@
-<h3 align="center">
-    <samp>
-        Hey! I'm Noel Simbolon
-    </samp>
-</h3>
+### 👋 Glad you're here!
 
+I'm a computer science student from Indonesia. In my leisure time, I enjoy watching movies, TV, playing the piano, listening to music, and tinkering random stuffs.
+
+### 📈 Stats
 <p align="center">
-    <samp>
-    「 Computer Science Student 」
-    </samp>
+<img width=300, src="https://github-readme-stats.vercel.app/api/top-langs?username=noelsimbolon&exclude_repo=mpv-config&layout=compact&theme=dark&show_icons=true"/>
+<br>
+<img width=300, src="https://github-readme-stats.vercel.app/api?username=noelsimbolon&theme=dark&show_icons=true"/>
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=noelsimbolon.noelsimbolon&left_color=%23151515&right_color=%2356ac69"/>
 </p>
-
-<br>
-
-<details align="left"><br>
-    <summary><samp>&#9776; About Me</samp></summary>
-    <p align="center">
-    <samp>
-    Besides learning to become a professional software engineer, I explore topics in areas I'm interested in, such as privacy, security, media servers, and media playback. In my leisure time, I enjoy watching movies, TV, playing the piano, listening to music, and tinkering random stuffs.
-    </samp>
-    </p>
-</details>
-
-<br>
-
-<details align="left"><br>
-    <summary><samp>&#9776; Stats</samp></summary>
-    <p align="center">
-    <img width=400, src="https://github-readme-stats.vercel.app/api?username=noelsimbolon&theme=dark&show_icons=true"></img><br>
-    <img width=300, src="https://github-readme-stats.vercel.app/api/top-langs?username=noelsimbolon&exclude_repo=mpv-config&layout=compact&theme=dark&show_icons=true"></img><br>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=noelsimbolon.noelsimbolon&left_color=%23151515&right_color=%2356ac69"></img>
-    </p>
-</details>
-
-<br>
-
-<samp>
-  <p align="center">
-    ════ ⋆★⋆ ════<br>
-  </p>
-</samp>
