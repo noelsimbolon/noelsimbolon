@@ -1,6 +1,6 @@
 ## 👋 Glad to see you here!
 
-I'm [Noel](https://noelsimbolon.github.io/), a computer science student based on Indonesia.
+I'm [Noel](https://noelsimbolon.github.io/), a computer science student based in Indonesia.
 
 My interests include web development, digital privacy, and security. 
 
