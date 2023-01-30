@@ -1,8 +1,7 @@
-### 👋 Glad you're here!
+## 👋 Glad you're here!
+I'm Noel, a computer science student based on Indonesia. My interests include web development, digital privacy, and security. In my leisure time, I enjoy watching movies, TV, playing the piano, listening to music, and tinkering random stuffs.
 
-I'm a computer science student from Indonesia. In my leisure time, I enjoy watching movies, TV, playing the piano, listening to music, and tinkering random stuffs.
-
-### 📈 Stats
+## 📈 Stats
 <p align="center">
 <img width=300, src="https://github-readme-stats.vercel.app/api/top-langs?username=noelsimbolon&exclude_repo=mpv-config&layout=compact&theme=dark&show_icons=true"/>
 <br>
