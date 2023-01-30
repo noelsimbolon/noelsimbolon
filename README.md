@@ -4,7 +4,7 @@ I'm [Noel](https://noelsimbolon.github.io/), a computer science student based in
 
 My interests include web development, digital privacy, and security. 
 
-In my leisure time, I enjoy watching movies, TV, playing the piano, listening to music, and tinkering random stuffs.
+In my leisure time, I enjoy watching movies and TV, playing the piano, and listening to music.
 
 You can find me on:
 - [GitHub](https://github.com/noelsimbolon/)
