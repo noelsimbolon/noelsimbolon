@@ -1,8 +1,3 @@
-<p align="right">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=noelsimbolon.noelsimbolon&left_color=%23151515&right_color=%2356ac69">
-    </img>
-</p>
-
 ## 👋 Glad to see you here!
 
 I'm [Noel](https://noelsimbolon.github.io/), a computer science student based in Indonesia.
