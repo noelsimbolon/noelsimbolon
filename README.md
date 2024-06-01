@@ -2,6 +2,8 @@
 
 I'm Noel, a computer science student based in Indonesia.
 
-My interests include web development, digital privacy, and security.
+I'm pretty passionate about personal privacy and security. I've also taken an interest in management consulting.
 
-In my leisure time, I enjoy watching movies and TV, playing the piano, and listening to music.
+In my leisure time, I enjoy watching movies, TV, and listening to music.
+
+Check out my [LinkedIn profile](linkedin.com/in/noelsimbolon) to get to know more about me!
